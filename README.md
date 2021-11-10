@@ -1,7 +1,7 @@
 # BoxyMess
 
 
-A sound-space concept full of messy boxes and the messy sounds they create.
+A sound-space concept full of messy boxes and their messy sounds.
 
 
 ### Requirements
